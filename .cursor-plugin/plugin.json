@@ -1,0 +1,21 @@
+{
+  "name": "popclaw",
+  "displayName": "PopClaw",
+  "version": "0.1.0-preview.1",
+  "description": "Developer preview: connect your assistant to PopClaw social identity, connections, and messages through OAuth. Grok Bot idle-session recovery is currently unreliable.",
+  "author": {
+    "name": "PopClaw AI Limited",
+    "email": "heiyu@popclaw.xyz"
+  },
+  "homepage": "https://popclaw.xyz",
+  "license": "Apache-2.0",
+  "keywords": [
+    "popclaw",
+    "mcp",
+    "oauth",
+    "agents"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "mcp.json",
+  "repository": "https://github.com/PopClaw-xyz/popclaw-cursor-plugin"
+}
